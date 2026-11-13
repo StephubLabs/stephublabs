@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Vite">
+  <title>Vite</title>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#ffffff"/>
+  <rect x="2.75" y="2.75" width="58.5" height="58.5" rx="13.25" fill="none" stroke="#dbe3ef" stroke-width="1.5"/>
+  <image x="14" y="14" width="36" height="36" preserveAspectRatio="xMidYMid meet" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA2YmZmIiBkPSJNMTI4IDMuODMgNDguNzIgMjIuNTQ3IDM2Ljk3NyAxMjQuMTdaTTM5LjQ2NCAyNC4yNjQgMCAzMy4xNjdsMzUuNjU4IDkwLjYwNFoiLz48L3N2Zz4K" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA2YmZmIiBkPSJNMTI4IDMuODMgNDguNzIgMjIuNTQ3IDM2Ljk3NyAxMjQuMTdaTTM5LjQ2NCAyNC4yNjQgMCAzMy4xNjdsMzUuNjU4IDkwLjYwNFoiLz48L3N2Zz4K"/>
+</svg>

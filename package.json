@@ -1,0 +1,15 @@
+{
+  "name": "stephublabs-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README for Morara Stephen (stephublabs)",
+  "type": "module",
+  "scripts": {
+    "badges": "node scripts/generate-badges.mjs",
+    "icons": "node scripts/fetch-icons.mjs",
+    "assets": "npm run badges && npm run icons"
+  },
+  "devDependencies": {
+    "badge-maker": "^4.0.0"
+  }
+}
